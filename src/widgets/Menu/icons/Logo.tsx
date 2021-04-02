@@ -28,7 +28,8 @@ const Logo: React.FC<LogoProps> = ({ isDark, ...props }) => {
         version="1.1"
         viewBox="0 0 58.208332 13.229167"
         height="50"
-        width="220">
+        width="220"
+        {...props} >
         <defs
           id="defs6526" />
         <g

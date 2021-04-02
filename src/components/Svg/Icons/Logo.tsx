@@ -10,7 +10,8 @@ const Icon: React.FC<SvgProps> = (props) => {
       version="1.1"
       viewBox="0 0 8.4666665 8.4666669"
       height="32"
-      width="32">
+      width="32"
+      {...props} >
       <defs
         id="defs7103" />
       <g
