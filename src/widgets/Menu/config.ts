@@ -111,11 +111,11 @@ export const links = [
       {
         label: "Github",
         href: "https://github.com/BigFootFinance/",
-        target: "_blank",
+        target: '_blank',
       },
       {
         label: "Docs",
-        href: "https://bigfootfinance.gitbook.io/bigfootfinance/",
+        href: "https://BigFootFinance.gitbook.io/bigfootfinance/",
       },
       {
         label: "Blog",
