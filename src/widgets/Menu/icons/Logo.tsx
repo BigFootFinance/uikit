@@ -35,11 +35,7 @@ const Logo: React.FC<LogoProps> = ({ isDark, ...props }) => {
         <g
           transform="translate(0,-283.77082)"
           id="layer1">
-          <image
-            width="12.870089"
-            height="12.870089"
-            preserveAspectRatio="none"
-            xlinkHref="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA
+          <image width="12.870089" height="12.870089" preserveAspectRatio="none" xlinkHref="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA
       IGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAB7TSURBVHjazJt5kFzX
       dd5/9+29b9OzT8+KHQQIgCQIkBRFLRRFShZpK7Et2S6p5LISW2WlKqlKxWVXqVyJ7LKcpew4FceJ
       Y1uRZe1yZEsmJVMkRXAFCRDEMgMMZt96el9f99tu/pghTBCgCJIVibfq1czr6n7d97vnnvOd75wr
@@ -180,10 +176,7 @@ const Logo: React.FC<LogoProps> = ({ isDark, ...props }) => {
       CuFo35cMc5JypU4qFAJRRNM0hKIXTdNAVby3fPhGu0Hyt01pXRTh+CGLutB6vlgJPvhN17cm50/N
       hqPRqDswlNtYaa99cOnlSz9viPxIPGrrmqYIu2u4nWDsQmDs/2/1tvdINHnjx2slcosMSQdVeAg8
       xPbRC8GbXO7rjP83AHQrreIXajVcAAAAAElFTkSuQmCC
-      "
-            id="image7096"
-            x="1.0394373"
-            y="283.90311" />
+      " id="image7096" x="1.0394373" y="283.90311"></image>
           <text
             id="text7101"
             y="294.65652"
